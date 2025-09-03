@@ -23,6 +23,7 @@ Usando el compilador G++, el comando para compilar ambos archivos y generar un e
 
 ```bash
 g++ me.cpp student.cpp -o me.out
+```
 
 ### ¿Cómo ejecuta su programa desde la terminal? .
 *   **En GNU/Linux o macOS:**
