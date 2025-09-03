@@ -9,10 +9,19 @@ Los estándares de codificación (o *coding standards*) son un conjunto de regla
 
 Ejemplos de lo que definen: convenciones de nombres para variables y funciones (ej. `camelCase` o `snake_case`), reglas de indentación, uso de comentarios o MAYUSCULASS y la forma de estructurar el código.
 
+---
 ### ¿Quién es considerado el padre de la Programación Orientada a Objetos?
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p><b>Alan Kay</b> es ampliamente considerado el "padre de la Programación Orientada a Objetos". 
+    Él acuñó el término <i>Object-Oriented Programming</i> en los años 60 y fue una de las fuerzas principales detrás del desarrollo del lenguaje <b>Smalltalk</b>, que fue el primero en implementar completamente los conceptos de OOP (objetos, mensajes, encapsulamiento).</p>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4JOxQxNNpmECDdHd4SkvL_3EoSOE69sUpyw&s" alt="Alan Kay" width="200"/>
+  </div>
+</div>
 
-**Alan Kay** es ampliamente considerado el "padre de la Programación Orientada a Objetos". Él acuñó el término "Object-Oriented Programming" en la década de 1960 y fue una de las fuerzas principales detrás del desarrollo del lenguaje de programación **Smalltalk**, que fue el primer lenguaje en implementar completamente los conceptos de OOP (objetos, mensajes, encapsulamiento).
-
+---
 ### ¿Qué diferencia hay entre un editor de texto plano y un editor de texto enriquecido?
 
 La diferencia fundamental está en lo que almacenan:
@@ -29,6 +38,7 @@ La diferencia fundamental está en lo que almacenan:
     *   **Uso:** Para crear documentos destinados a la lectura humana.
     *   **Ejemplos:** Microsoft Word, Google Docs, WordPad, LibreOffice Writer.
 
+---
 ### ¿Cuál usar [TABS] o [ESPACIOS] para la identación de sus programas?
 
 *   **Argumento a favor de los Espacios:**
