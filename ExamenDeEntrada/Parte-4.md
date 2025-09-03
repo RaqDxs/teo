@@ -1,11 +1,3 @@
-
----
-
-##### **2.4. Archivo `Parte-4.md`**
-
-Finalmente, las respuestas a las preguntas teóricas.
-
-```markdown
 # Examen de Entrada: Parte 4
 
 ### ¿Qué son los estándares de codificación?
